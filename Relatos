@@ -47,14 +47,87 @@
     "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-o2IcMxKLTyM/W8yAjUZiZhI/AAAAAAAANuU/PvDprkZEWHYTAQvuWhzQhzt3J-Igv3o1ACLcBGAs/s640/GOPR1908.JPG",
     "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/10/travessia-santa-barbara-curimatai.html"
   },
-      {
+  {
     "idRelatoTravessia_M": 7,
     "TituloRelatoTravessia_M": "Pico da Neblina",
     "AutorRelatoTravessia_M": "Rodrigo Silva",
     "DescricaoCurtaRelatoTravessia_M": "Ainda sem a autorização definitiva para nossa expedição ao Pico da Neblina, saí de Belo Horizonte, dia 20/11/2014 às 17:08, com destino à Manaus, mas antes, teria uma escala no aeroporto Galeão, Rio de Janeiro.",
     "ImagemRelatoTravessia_M": "https://s0.wklcdn.com/image_3/113674/13344480/8236428Master.jpg",
     "LinkUrlRelatoTravessia_M": "http://altamontanha.com/relato-de-uma-expedicao-pela-amazonia-pico-da-neblina/"
+  },
+    {
+    "idRelatoTravessia_M": 8,
+    "TituloRelatoTravessia_M": "Altamira x Serra do Cipó (via Bandeirinha)",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Temporada de montanha a gente fica matutando pra onde ir, principalmente quando tem uns dias livres pela frente.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-f91OPv4Qtrs/W7y01lA_ADI/AAAAAAAANtg/GA9SzekoNqYnHHjMFTv1yhpv5puAOO8WQCPcBGAYYCw/s640/GOPR1824.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/10/altamira-serra-cipo-bandeirinha.html"
+  },
+  {
+    "idRelatoTravessia_M": 9,
+    "TituloRelatoTravessia_M": "Extrema x Fechados",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "É sabido, pelo menos por alguma parte dos montanhistas mineiros, que a Serra do Espinhaço, principalmente sua porção mais ao sul, proporciona diversas alternativas para quem aprecia uma boa trilha.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-e3p2V36zg_0/W7UtcVNLEGI/AAAAAAAANsI/kL5fgVxVCLstf5_Ibn2eM5JbW_s4XQ-FgCLcBGAs/s640/GOPR1537.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/10/travessia-extrema-fechados.html"
+  },
+   {
+    "idRelatoTravessia_M": 10,
+    "TituloRelatoTravessia_M": "Serra de São José",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "São José é uma pequena serra nos arredores dos municípios de São João Del Rei, Tiradentes e Prados, na região de villas e fazendas da Estrada Real. ",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-y98q7ZzELFo/W5_IsfhdnKI/AAAAAAAANqc/WgeT-Kt5zP0thgcdUJRf07wjCvfRmqHxgCLcBGAs/s640/IMG_20180715_112531393.jpg",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/09/travessia-serra-sao-jose.html"
+  },
+    {
+    "idRelatoTravessia_M": 11,
+    "TituloRelatoTravessia_M": "Capão x Lençois (via 21 e Fundão)",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "De todas as trilhas e travessias famosas da Chapada Diamantina, esta, talvez, seja aquela considerada a mais selvagem, difícil e menos percorrida. Era o caminho que me restava percorrer entre o Capão e Lençois, então lá fui eu.",
+    "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/-Bl5nPAgcHGk/W38D9os0msI/AAAAAAAANpY/E4avq3haVpM2wykNvQ5dYbprY_YT-hDKwCLcBGAs/s640/GOPR0861.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/08/capao-lencois-21-fundao.html"
+  },
+    {
+    "idRelatoTravessia_M": 12,
+    "TituloRelatoTravessia_M": "Guia da Serra do Cipó e arredores",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "A Serra do Cipó é um circuito turístico localizado na Região Metropolitana de Belo Horizonte, bem próximo à capital.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-ouXR1S5TgN4/WtFYpJ1dWGI/AAAAAAAANXo/VRncZHi8sDMHGMfG_eGo1SyEYHMGogEKQCLcBGAs/s640/GOPR0695.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/04/guia-serra-do-cipo.html"
+  },
+   {
+    "idRelatoTravessia_M": 13,
+    "TituloRelatoTravessia_M": "Guia da Chapada Diamantina",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "A Chapada Diamantina é um conjunto de serras localizadas na parte central do estado da Bahia, a cerca de 420km de Salvador.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-M2xEG4XbpTI/WqXN6kYjQlI/AAAAAAAANOA/pCKbLapz7ssir74c5gxTPBtsFstpeqZnACPcBGAYYCw/s640/GOPR0068.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/09/guia-chapada-diamantina.html"
+  },
+   {
+    "idRelatoTravessia_M": 14,
+    "TituloRelatoTravessia_M": "Serra Fina",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Serra Fina. Parecia uma jornada ainda distante, já que o plano era percorrer outros caminhos menos tortuosos, antes de encarar essa clássica trilha da Serra da Mantiqueira. Então, como quem não quer nada, levantei a possibilidade de fazer a travessia nas minhas férias, e ela - a oportunidade - se concretizou. No último final de semana de julho embarcamos, Pedro e eu, para as terras altas da Mantiqueira.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-N70kagPR0W4/WaYTNFTIGiI/AAAAAAAAKF8/xfaf5GFCLvoOdQwVSBQCe-2a56-8KrC1ACLcBGAs/s640/GOPR0940.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/08/travessia-serra-fina.html"
+  },
+  {
+    "idRelatoTravessia_M": 15,
+    "TituloRelatoTravessia_M": "Petrópolis x Teresópolis",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Depois de muita espera, com direito a uma tentativa frustrada, finalmente tive condições de fazer a tradicional Petrô-Terê, a travessia da Serra dos Órgãos.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-YCLQUuKmras/WadPcrI-3_I/AAAAAAAAKHY/IZOyColxHBEvlErEqL1ix2MCOEnMrPRsQCLcBGAs/s640/GOPR1199.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/08/travessia-serra-dos-orgaos.html"
+  },
+   {
+    "idRelatoTravessia_M": 16,
+    "TituloRelatoTravessia_M": "Mata Grande x Cabeça de Boi",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "No extremo sul da Serra do Espinhaço, um pouco separada do conjunto principal, está a Serra do Lobo, no município de Itambé do Mato Dentro.",
+    "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/-jJh-udIteJU/WUmzfHGdnVI/AAAAAAAAJ08/0kR1CCBAiKcW-zM4ntS39UnhKs2HXhtegCPcBGAYYCw/s640/GOPR0349.jpg",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/07/travessia-serra-do-lobo.html"
   }
+  
   
   
   
