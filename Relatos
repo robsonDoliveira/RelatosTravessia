@@ -1,10 +1,88 @@
 [
-{
-  "idRelatoTravessia_M": 1,
-  "TituloRelatoTravessia_M": "Travessia Lagamar",
-  "AutorRelatoTravessia_M": "Divanei Goes de Paula",
-  "DescricaoCurtaRelatoTravessia_M": "Travessia de Cananeia-SP à Paranaguá-PR, 60 km pelas praias do complexo do Lagamar bem na divisa de São Paulo com o Paraná.",
-  "ImagemRelatoTravessia_M": "https://i.ibb.co/DDHJWyN/div.jpg",
-  "LinkUrlRelatoTravessia_M": "https://aventurebox.com/divanei/travessia-lagamar-cananeia-sp-a-paranagua-pr/report"
+  {
+    "idRelatoTravessia_M": 1,
+    "TituloRelatoTravessia_M": "Travessia Lagamar",
+    "AutorRelatoTravessia_M": "Divanei Goes de Paula",
+    "DescricaoCurtaRelatoTravessia_M": "Travessia de Cananeia-SP à Paranaguá-PR, 60 km pelas praias do complexo do Lagamar bem na divisa de São Paulo com o Paraná.",
+    "ImagemRelatoTravessia_M": "https://i.ibb.co/DDHJWyN/div.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/divanei/travessia-lagamar-cananeia-sp-a-paranagua-pr/report"
+  },
+  {
+    "idRelatoTravessia_M": 2,
+    "TituloRelatoTravessia_M": "Pico do Itambé x Rio Preto",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Esse é mais um daqueles roteiros que namorei por tempos antes de conseguir cumprir. Tive notícia dessa rota pelos Parques do Pico do Itambé e do Rio Preto lá pelos idos de 2014, quando da publicação de um livrinho sobre os parques estaduais de Minas Gerais.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-xmig5e4aKu8/XEuls-BTq2I/AAAAAAAAN78/PxEpigQ-wiM5AT-OOehEIn8BT5KQ86j_QCLcBGAs/s640/GOPR2098.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2019/01/travessia-pico-itambe-rio-preto.html"
+  },
+   {
+    "idRelatoTravessia_M": 3,
+    "TituloRelatoTravessia_M": "Serra da Lagoa Dourada e da Contagem",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "O extremo sul da Serra do Espinhaço é repleto de trilhas e possibilidades. São muitos caminhos a seguir e muitas conexões que podem ser feitas, de forma a criar as mais diferentes rotas.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-q5YYHvTcXwI/XExleW89Q1I/AAAAAAAAN9M/5g4bB6fJ1HskP4yNNC7A8o0UDovMhwz5ACLcBGAs/s640/IMG_20181124_111329890_HDR.jpg",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2019/01/travessia-lagoa-dourada-contagem.html"
+  },
+  {
+    "idRelatoTravessia_M": 4,
+    "TituloRelatoTravessia_M": "Morro do Camilinho x Lapinha da Serra",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Durante muito tempo sonhei com uma trilha longa pela Serra do Espinhaço, seja no formato de travessia ou mesmo um circuito.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-UBGGBY0h45w/XAQNGOIsX5I/AAAAAAAANxg/6LX8xD-_xR8PPWVBb5NSTWqzfgDb1N5mACLcBGAs/s640/IMG_20181103_135629702_HDR.jpg",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/12/transespinhaco-camilinho-lapinha-serra.html"
+  },
+   {
+    "idRelatoTravessia_M": 5,
+    "TituloRelatoTravessia_M": "Duas Pontes x Cabeça de Boi",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Duas Pontes x Cabeça de Boi é uma das trilhas clássicas do Parque Nacional da Serra do Cipó, na minha cabeça era a 2ª travessia da região, atrás somente da famosíssima Lapinha x Tabuleiro. Com o passar do tempo, no entanto, parece que era um terreno cada vez menos percorrido.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-utTyiT21DZI/XAKSrmYe18I/AAAAAAAANwo/IpsU53vP_JA-WjyzmDrNIGIYiyU4oEdGwCLcBGAs/s640/IMG_20181012_132157005_HDR.jpg",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/12/serra-do-cipo-duas-pontes-cabeca-de-boi.html"
+  },
+     {
+    "idRelatoTravessia_M": 6,
+    "TituloRelatoTravessia_M": "Santa Bárbara x Curimataí",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Eita Espinhaço que é grandimaisdaconta, sô! Depois de muito namorar a Cachoeira de Santa Rita, que conheci através de fotos do amigo Chico Trekking, chegou a hora de explorar um pouco mais dessa região central da Serra do Espinhaço.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-o2IcMxKLTyM/W8yAjUZiZhI/AAAAAAAANuU/PvDprkZEWHYTAQvuWhzQhzt3J-Igv3o1ACLcBGAs/s640/GOPR1908.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2018/10/travessia-santa-barbara-curimatai.html"
+  },
+      {
+    "idRelatoTravessia_M": 7,
+    "TituloRelatoTravessia_M": "Pico da Neblina",
+    "AutorRelatoTravessia_M": "Rodrigo Silva",
+    "DescricaoCurtaRelatoTravessia_M": "Ainda sem a autorização definitiva para nossa expedição ao Pico da Neblina, saí de Belo Horizonte, dia 20/11/2014 às 17:08, com destino à Manaus, mas antes, teria uma escala no aeroporto Galeão, Rio de Janeiro.",
+    "ImagemRelatoTravessia_M": "https://s0.wklcdn.com/image_3/113674/13344480/8236428Master.jpg",
+    "LinkUrlRelatoTravessia_M": "http://altamontanha.com/relato-de-uma-expedicao-pela-amazonia-pico-da-neblina/"
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ]
