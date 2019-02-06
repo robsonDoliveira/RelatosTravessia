@@ -126,6 +126,86 @@
     "DescricaoCurtaRelatoTravessia_M": "No extremo sul da Serra do Espinhaço, um pouco separada do conjunto principal, está a Serra do Lobo, no município de Itambé do Mato Dentro.",
     "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/-jJh-udIteJU/WUmzfHGdnVI/AAAAAAAAJ08/0kR1CCBAiKcW-zM4ntS39UnhKs2HXhtegCPcBGAYYCw/s640/GOPR0349.jpg",
     "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/07/travessia-serra-do-lobo.html"
+  },
+    {
+    "idRelatoTravessia_M": 17,
+    "TituloRelatoTravessia_M": "Diamantina x Ouro Preto",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Em um abril recheado de feriados, embarquei numa aventura solo pelo Caminho dos Diamantes da Estrada Real, saindo de Diamantina e indo em direção a Ouro Preto.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-k9y8YYOy4v8/WRpjXroTUUI/AAAAAAAAJu4/IOBPdTm26fcu5pSraa2XRS-P44VmzapEACKgB/s640/GOPR5301.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/05/estrada-real-caminho-diamantes.html"
+  },
+   {
+    "idRelatoTravessia_M": 18,
+    "TituloRelatoTravessia_M": "Caminho de Sabarabuçu (Cocais x Glaura)",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Sabarabuçu é um dos quatro caminhos da Estrada Real, um desvio do Caminho dos Diamantes na altura de Cocais.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-Bi467msUqOo/WQKVWHVZzII/AAAAAAAAJr0/Sla7CjF2FH81eYnivrn0hoP4Rb9qiybngCPcB/s320/GOPR5008.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/04/estrada-real-sabarabucu.html"
+  },
+    {
+    "idRelatoTravessia_M": 19,
+    "TituloRelatoTravessia_M": "Lapinha x Inhames",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Em 2015 fiz a tradicional travessia Lapinha x Tabuleiro pela primeira vez, desde então as incontáveis rotas pelo sul do Espinhaço pipocavam em minha mente.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-YOYQx2rfKwE/WQJoXu3EHaI/AAAAAAAAJrM/yfiK3eqLT6gIOWF5k0w6dGvJYw0DGHbhgCPcB/s640/GOPR4767.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2017/04/travessia-lapinha-x-inhames.html"
+  },
+   {
+    "idRelatoTravessia_M": 20,
+    "TituloRelatoTravessia_M": "Conselheiro Mata (Diamantina-MG)",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Na borda oeste do Espinhaço central está o povoado de Conselheiro Mata, um pequeno distrito de Diamantina dono de belas paisagens e cachoeiras. No final de outubro a Giu e eu recebemos um convite para passar um final de semana lá, acampados no Telésforo.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-6Rz0WhVmtWw/VfwycTCY9jI/AAAAAAAADFU/Krtx8LJz0PoLj52WLB6mNjrc7sh4bKHBACPcB/s640/GOPR8424.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/11/conselheiro-mata-diamantina-mg.html"
+  },
+    {
+    "idRelatoTravessia_M": 21,
+    "TituloRelatoTravessia_M": "São João da Chapada x Diamantina",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Num belo dia, zapeando pelo Facebook, vejo um convite do Francisco Cardoso (a.k.a. Chico Trekking), tratava-se de mais uma travessia pelo Espinhaço, dessa vez pelas bandas de Diamantina.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-BvxleVjqDQM/V_bq-KIK3LI/AAAAAAAAH8Q/4KYJix7cCSI9rB9rs168w6d7Rtll0o3PACPcB/s640/_MG_5572.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/10/travessia-sao-joao-chapada-diamantina.html"
+  },
+     {
+    "idRelatoTravessia_M": 22,
+    "TituloRelatoTravessia_M": "Alto do Palácio x Serra dos Alves",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Feriado municipal em uma segunda-feira de agosto nos convidava para uma travessia.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-vprSxs_usYc/V8oU1XSsoEI/AAAAAAAAHUc/jSdw1IEiBh4v6wWnA206vG80YPb6kudqACPcB/s640/GOPR2237.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/09/travessia-alto-palacio-serra-dos-alves.html"
+  },
+    {
+    "idRelatoTravessia_M": 23,
+    "TituloRelatoTravessia_M": "Pico do Bandeira",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Inverno, lua cheia, camping reservado, tudo certo para conhecer um dos pontos culminantes do Brasil: o Pico da Bandeira, com seus 2.892 metros de elevação.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-IfFcIRIZ8Q0/V8Nl5RSKstI/AAAAAAAAHTM/dgbRBs4TwtQ3oLfzwVqLl8UR3tepkGUYACPcB/s640/_MG_4968.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/08/parque-nacional-caparao.html"
+  },
+    {
+    "idRelatoTravessia_M": 24,
+    "TituloRelatoTravessia_M": "Cachoeira da Lagoa Dourada",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Já escutei muitas histórias sobre o vale da Lagoa Dourada, considerado um dos lugares mais bonitos da região do Cipó, mas nunca havia tido a oportunidade de conhecê-lo, até porque só sabia do caminho via Altamira ou Parque Nacional, trilhas que exigem ao menos uma pernoite.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-v82fEV3cdtI/V28vjAsWdEI/AAAAAAAAHPc/_im-pAKNtu0xJnUl5ZiK0MzsSAk8zj1cQCPcB/s640/GOPR1689.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/06/serra-cipo-lagoa-dourada.html"
+  },
+    {
+    "idRelatoTravessia_M": 25,
+    "TituloRelatoTravessia_M": "Poço do Soberbo e Cachoeira do Rubinho",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "As cachoeiras nas proximidades do vilarejo de Lapinha da Serra estavam no meu radar há tempos.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-FTLEmZVQDXM/VwO9m96SoVI/AAAAAAAAGcY/GMYuPVJHpa8DiFQAiYeeWGJdro6pgruUQCPcB/s640/_MG_3492.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/04/lapinha-da-serra-soberbo-rubinho.html"
+  },
+     {
+    "idRelatoTravessia_M": 26,
+    "TituloRelatoTravessia_M": "Lapinha da Serra x Tabuleiro",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Essa travessia começou lá na Serra da Canastra, onde conhecemos o Hélder, a Simone e a Cássia, de Berrrlândia.",
+    "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-ajbSOWtxSkE/VtBzmYh5_tI/AAAAAAAAGB4/2ZGyx1sbWPsEBETRm3SCOTBxG4aiVl_SgCPcB/s640/_MG_3331.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/02/travessia-lapinha-da-serra-tabuleiro.html"
   }
   
   
