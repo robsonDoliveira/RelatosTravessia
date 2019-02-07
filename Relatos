@@ -206,6 +206,62 @@
     "DescricaoCurtaRelatoTravessia_M": "Essa travessia começou lá na Serra da Canastra, onde conhecemos o Hélder, a Simone e a Cássia, de Berrrlândia.",
     "ImagemRelatoTravessia_M": "https://1.bp.blogspot.com/-ajbSOWtxSkE/VtBzmYh5_tI/AAAAAAAAGB4/2ZGyx1sbWPsEBETRm3SCOTBxG4aiVl_SgCPcB/s640/_MG_3331.JPG",
     "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2016/02/travessia-lapinha-da-serra-tabuleiro.html"
+  },
+  {
+    "idRelatoTravessia_M": 27,
+    "TituloRelatoTravessia_M": "Cachoeira Braúnas",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Conheci a Braúnas através dos Caçadores de Cachoeiras, quando eles listaram os mitos da Serra do Cipó, que seriam cachoeiras distantes, pouco visitadas e com pouca informação.",
+    "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/-7V3WJyVXOsA/VaKfoxgGkhI/AAAAAAAACxc/R3EQvbHNM-wXZBjNqVeOPyOqADTN2PgswCPcB/s640/GOPR7158.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2015/07/trekking-altamira-braunas.html"
+  },
+  {
+    "idRelatoTravessia_M": 28,
+    "TituloRelatoTravessia_M": "São Thomé das Letras-MG",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Cheguei da Chapada Diamantina já pensando que usaria a pouca grana que restou para fazer mais uma viagem.",
+    "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/-8M9uMe9JYbc/Vt4vpo4EmNI/AAAAAAAAGTs/w_KBMCFG9ls/s640/061.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2014/11/bh-sao-thome-das-letras.html"
+  },
+  {
+    "idRelatoTravessia_M": 29,
+    "TituloRelatoTravessia_M": "Milho Verde (Serro-MG) I",
+    "AutorRelatoTravessia_M": "Hélio Júnior",
+    "DescricaoCurtaRelatoTravessia_M": "Quando penso na melhor viagem que já fiz é impossível não mencionar Milho Verde.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-9-hDMS7fdYU/VFFS6cmblJI/AAAAAAAAB8E/PNcJ5yEuKO4/s640/119.JPG",
+    "LinkUrlRelatoTravessia_M": "https://caminhosdomato.blogspot.com/2014/10/milho-verde-mg.html"
+  },
+  {
+    "idRelatoTravessia_M": 30,
+    "TituloRelatoTravessia_M": "Cerro Plata de forma independente",
+    "AutorRelatoTravessia_M": "Silvester Natan",
+    "DescricaoCurtaRelatoTravessia_M": "Pois bem, após uma temporada de alta montanha na Bolívia em julho de 2018, na ocasião com guias locais, logrei êxito fazendo 05 cumes em 20 dias, sendo 02 destes acima dos 6 mil.",
+    "ImagemRelatoTravessia_M": "http://altamontanha.com/wp-content/uploads/2019/01/4.jpg",
+    "LinkUrlRelatoTravessia_M": "http://altamontanha.com/cerro-plata-de-forma-independente"
+  },
+   {
+    "idRelatoTravessia_M": 31,
+    "TituloRelatoTravessia_M": "Alto Palácio a Serra dos Alves",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "A nova rota oficial no Parque Nacional da Serra do Cipó aberta à visitação pública.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-HNx3vNb3xWM/VsaGeQ6UxOI/AAAAAAAAmnI/EW4Y78t4tAU/s1600/141.jpg",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2016/02/travessia-alto-palacio-a-serra-dos-alves.html"
+  },
+  {
+    "idRelatoTravessia_M": 32,
+    "TituloRelatoTravessia_M": "Altamira a São José da Serra",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Não lhe faltam atrativos naturais e visual espetacular, pois inúmeros são os afloramentos rochosos com suas formações curiosas e permeadas por matas de galerias, ricas em cursos d'água.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-O-fIJ4FoOgM/VBObQ9A8c4I/AAAAAAAAZo4/qbvoIpJIsiY/s640/PICT5986-001.JPG",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2014/09/altamira-sao-jose-da-serra-travessia.html"
+  },
+  {
+    "idRelatoTravessia_M": 33,
+    "TituloRelatoTravessia_M": "BH - Nova Lima",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Como é uma área de transição, basta que o aventureiro tenha disposição em estudar e planejar rotas que opções diversas podem surgir.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-oM-8b4fRnKo/VwMZchMdFkI/AAAAAAAAnFw/lpXyW9HWeEch9W2QUEeI3YXtcJdgblNkw/s640/IMG_20160319_132950.jpg",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2016/04/bh-nova-lima-charmosa-travessia-nos.html"
   }
   
   
