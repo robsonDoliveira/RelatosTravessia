@@ -262,6 +262,62 @@
     "DescricaoCurtaRelatoTravessia_M": "Como é uma área de transição, basta que o aventureiro tenha disposição em estudar e planejar rotas que opções diversas podem surgir.",
     "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-oM-8b4fRnKo/VwMZchMdFkI/AAAAAAAAnFw/lpXyW9HWeEch9W2QUEeI3YXtcJdgblNkw/s640/IMG_20160319_132950.jpg",
     "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2016/04/bh-nova-lima-charmosa-travessia-nos.html"
+  },
+  {
+    "idRelatoTravessia_M": 34,
+    "TituloRelatoTravessia_M": "Cachoeira das Ostras",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Há mirantes, trilhas, sítios históricos, cachoeiras e outros atrativos naturais. Dentre estes recantos, o município de Brumadinho, distante 57 km da Capital, guarda em seus domínios vários atrativos ainda bem preservados.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-jLtT-01EVJo/VAC0ZvKcULI/AAAAAAAAZmQ/F-8NNMP4wuY/s640/PICT6423.JPG",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2014/08/cachoeira-das-ostras-doce-recanto-em-brumadinho.html"
+  },
+  {
+    "idRelatoTravessia_M": 35,
+    "TituloRelatoTravessia_M": "Chapada das Perdizes",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Apresenta características de mata atlântica em suas encostas e campos de altitude e rupestres em seus topos, demonstrando que já se enquadra em uma área de transição.",
+    "ImagemRelatoTravessia_M": "https://4.bp.blogspot.com/--n4FmFoenP0/V2wwsArJ7LI/AAAAAAAAo00/Gs-o5SUp-DsYX3z0kKd8EPChj7hE5Xu-gCLcB/s640/ze.jpg",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2016/06/chapada-das-perdizes-minduri-carrancas_23.html"
+  },
+   {
+    "idRelatoTravessia_M": 36,
+    "TituloRelatoTravessia_M": "Cemitério do Peixe-Fechados",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Um desses caminhos é a Travessia Cemitério do Peixe-Fechados; uma rota pouco realizada e que percorre o trecho norte da cumeada da Serra do Cipó, localizada na borda oeste do Espinhaço.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-za6psaAMy3U/Wcme67i3N5I/AAAAAAAA2kE/kEE56-2nPTYQt95w6mrZ7CKtFebC-OgjACLcBGAs/s640/DSC01686.jpg",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2017/09/cemiterio-do-peixe-fechados.html"
+  },
+  {
+    "idRelatoTravessia_M": 37,
+    "TituloRelatoTravessia_M": "Circuito Picos da Lapinha",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Os acessos a estes atrativos são simplificados e favorecem a visitação pelo mar de turistas que atualmente chegam ao lugarejo nos fins de semana e feriados.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-D5dDCsG69ys/VMpXupMLLXI/AAAAAAAAcb0/bK4d_rLgRU0/s640/DSC01361-001.JPG",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2015/01/circuito-picos-da-lapinha-uma-rota-espetacular.html"
+  },
+  {
+    "idRelatoTravessia_M": 38,
+    "TituloRelatoTravessia_M": "Marins - Itaguaré",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Suas cristas quase sempre estão em torno e acima de 2000m de altitude, fazendo com que a região concentre proporcionalmente as mais altas elevações do Brasil.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-7ZTU_rRlMeo/U7GBSW1jFvI/AAAAAAAAWaA/SNkdIUn8FME/s640/PICT6151-001.JPG",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2014/06/marins-itaguare-o-mundo-maravilhoso-dos.html"
+  },
+  {
+    "idRelatoTravessia_M": 39,
+    "TituloRelatoTravessia_M": "Serra Fina em Dois Dias",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Trata-se de uma rota aberta há algumas décadas na Serra da Mantiqueira e que por muito tempo desafiou e continua a desafiar os montanhistas, chegando a ser considerada por alguns como a rota mais difícil do Brasil.",
+    "ImagemRelatoTravessia_M": "https://2.bp.blogspot.com/-o00JMIiQSaA/V2Reo1nW1WI/AAAAAAAAoM8/oL7ttxwxZYQPXJDOCNMadE3mhdulatrxwCLcB/s640/IMG_20160501_103816-001.jpg",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2016/06/serra-fina-em-dois-dias_17.html"
+  },
+   {
+    "idRelatoTravessia_M": 40,
+    "TituloRelatoTravessia_M": "Ponta da Joatinga",
+    "AutorRelatoTravessia_M": "Chico Trekking",
+    "DescricaoCurtaRelatoTravessia_M": "Tornou-se ao longo do tempo uma rota clássica para o Montanhismo Brasileiro, em especial àqueles que gostam de caminhadas à beira mar.",
+    "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-jLXFXAdytBE/VWamf7He5BI/AAAAAAAAgRU/LBCjDReKDjE/s640/DSC02826.JPG",
+    "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2015/05/ponta-da-joatinga-cachoeira-do-saco-bravo.html"
   }
   
   
