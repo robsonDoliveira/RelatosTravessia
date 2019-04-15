@@ -318,13 +318,47 @@
     "DescricaoCurtaRelatoTravessia_M": "Tornou-se ao longo do tempo uma rota clássica para o Montanhismo Brasileiro, em especial àqueles que gostam de caminhadas à beira mar.",
     "ImagemRelatoTravessia_M": "https://3.bp.blogspot.com/-jLXFXAdytBE/VWamf7He5BI/AAAAAAAAgRU/LBCjDReKDjE/s640/DSC02826.JPG",
     "LinkUrlRelatoTravessia_M": "https://www.chicotrekking.com.br/2015/05/ponta-da-joatinga-cachoeira-do-saco-bravo.html"
+  },
+  {
+    "idRelatoTravessia_M": 41,
+    "TituloRelatoTravessia_M": "Pico da Lapinha",
+    "AutorRelatoTravessia_M": "Fabio Fliess",
+    "DescricaoCurtaRelatoTravessia_M": "Esse é o segundo relato do rolê no entorno da Serra do Cipó, em dezembro e janeiro passados.",
+    "ImagemRelatoTravessia_M": "https://aventurebox.com/uf/544c0a64dc883/adventure/5cae5992a32a5/5cae5992a723f-2.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/fliess/pico-da-lapinha/report"
+  },
+  {
+    "idRelatoTravessia_M": 42,
+    "TituloRelatoTravessia_M": "Travessia Ruy Braga",
+    "AutorRelatoTravessia_M": "Fabio Fliess",
+    "DescricaoCurtaRelatoTravessia_M": "As travessias que cortam o Parque Nacional de Itatiaia são lindas, mas durante longos períodos ficaram fechadas ao público, por motivos diversos (falta de manutenção, controle, etc).",
+    "ImagemRelatoTravessia_M": "https://aventurebox.com/uf/544c0a64dc883/adventure/589b199752b0d/589b199756b59-2.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/fliess/travessia-ruy-braga/report"
+  },
+ {
+    "idRelatoTravessia_M": 43,
+    "TituloRelatoTravessia_M": "Cachoeira Bicame",
+    "AutorRelatoTravessia_M": "Fabio Fliess",
+    "DescricaoCurtaRelatoTravessia_M": "Escolhemos a trilha para a Cachoeira Bicame para começar os "trabalhos" na região, por não apresentar grandes dificuldades.",
+    "ImagemRelatoTravessia_M": "https://aventurebox.com/uf/544c0a64dc883/adventure/5c7814453fa85/5c781445431a3-2.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/fliess/cachoeira-bicame/report"
+  }, 
+  {
+    "idRelatoTravessia_M": 44,
+    "TituloRelatoTravessia_M": "Torres del Paine",
+    "AutorRelatoTravessia_M": "Fabio Fliess",
+    "DescricaoCurtaRelatoTravessia_M": "Depois de duas temporadas trilhando em Huaraz/Peru, eu e meus amigos de trilha resolvemos mudar de ares.",
+    "ImagemRelatoTravessia_M": "https://aventurebox.com/uf/544c0a64dc883/adventure/5b6d839611ac4/5b6dc82e8269e-2.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/fliess/torres-del-paine-2011-a-louca-viagem-ao-fim-do-mundo/report"
+  }, 
+  {
+    "idRelatoTravessia_M": 45,
+    "TituloRelatoTravessia_M": "Circuito Huayhuash - Peru",
+    "AutorRelatoTravessia_M": "Fabio Fliess",
+    "DescricaoCurtaRelatoTravessia_M": "Já era um antigo desejo levar a minha esposa Letícia para conhecer um dos lugares mais bonitos onde eu havia pisado: a Cordilheira Huayhuash.",
+    "ImagemRelatoTravessia_M": "https://aventurebox.com/uf/544c0a64dc883/adventure/580f9c2ebb0f8/580f9c2ebeaff-2.jpg",
+    "LinkUrlRelatoTravessia_M": "https://aventurebox.com/fliess/circuito-huayhuash-peru/report"
   }
-  
-  
-  
-  
-  
-  
   
   
   
